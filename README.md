@@ -21,7 +21,5 @@ We welcome contributions to the Focus AI Todo project. Please submit a pull requ
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-For questions or feedback, please reach out to us at contact@focusaitodo.com.
 
 ---
