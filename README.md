@@ -15,11 +15,6 @@ Focus AI Todo is a productivity application designed to help users manage their 
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
-## Contributing
-We welcome contributions to the Focus AI Todo project. Please submit a pull request or open an issue to discuss your ideas.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
----
